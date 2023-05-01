@@ -1,4 +1,4 @@
-# what is CongGen
+# what is ConGen?
 The goal of such a system would be to generate movie scripts or conversations between two or more characters, where one character is represented by the user interacting with the system. The system would use NLP algorithms and machine learning techniques to analyze the user's input, understand its meaning and intent, and generate appropriate responses.
 
 The system would have access to a large corpus of movie scripts or other written dialogue to train on and learn from. It would use techniques like neural language modeling, sequence-to-sequence learning, and reinforcement learning to generate responses that are both grammatically correct and contextually appropriate.
